@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben Hassine Mohamed Rayen</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **PFE Project**
+
 
 - 📫 How to reach me **rayenmohamed2310@gmail.com**
 
